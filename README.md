@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DocDocHoggarth
-- 👀 I’m interested in imaging, hypoxia, learning, and AI.
+- 👀 I’m interested in imaging, physiology, learning, and AI.
 - 🌱 I’m currently learning coding for AI chat-bots, python maths, and open source image analysis.
 - 💞️ I’m looking to collaborate on just about anything I can help with!
 - 📫 How to reach me: mahoggarth@noctrl.edu
